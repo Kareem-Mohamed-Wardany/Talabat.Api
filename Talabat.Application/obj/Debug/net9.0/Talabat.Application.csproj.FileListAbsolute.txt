@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\bin\Debug\net9.0\Talabat.Application.deps.json
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\bin\Debug\net9.0\Talabat.Application.dll
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\bin\Debug\net9.0\Talabat.Application.pdb
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\bin\Debug\net9.0\Talabat.Core.dll
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\bin\Debug\net9.0\Talabat.Core.pdb
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat.Application.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat..402A36FE.Up2Date
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat.Application.dll
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\refint\Talabat.Application.dll
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\Talabat.Application.pdb
+C:\Users\Administrator\source\repos\Talabat.APIs.Solution\Talabat.Application\obj\Debug\net9.0\ref\Talabat.Application.dll

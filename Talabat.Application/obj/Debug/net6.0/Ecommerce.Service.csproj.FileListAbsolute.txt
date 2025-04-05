@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\bin\Debug\net6.0\Ecommerce.Service.deps.json
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\bin\Debug\net6.0\Ecommerce.Service.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\bin\Debug\net6.0\Ecommerce.Service.pdb
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\Ecommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\Ecommerce.Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\Ecommerce.Service.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\Ecommerce.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\Ecommerce.Service.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\refint\Ecommerce.Service.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\Ecommerce.Service.pdb
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Service\obj\Debug\net6.0\ref\Ecommerce.Service.dll

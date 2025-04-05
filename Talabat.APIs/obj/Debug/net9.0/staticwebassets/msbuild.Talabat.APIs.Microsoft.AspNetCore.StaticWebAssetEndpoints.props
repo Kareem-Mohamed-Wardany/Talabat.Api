@@ -1,0 +1,220 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/blueberry-cheesecake.pahr5x4mme.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\blueberry-cheesecake.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pahr5x4mme"},{"Name":"integrity","Value":"sha256-r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2\u002BP9UYWVxnk="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/blueberry-cheesecake.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"301849"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2\u002BP9UYWVxnk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:12:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/blueberry-cheesecake.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\blueberry-cheesecake.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2\u002BP9UYWVxnk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"301849"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2\u002BP9UYWVxnk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:12:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/double-caramel-frappuccino.54cjuq9yii.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\double-caramel-frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"54cjuq9yii"},{"Name":"integrity","Value":"sha256-FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/double-caramel-frappuccino.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75301"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 12:56:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/double-caramel-frappuccino.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\double-caramel-frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"75301"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 12:56:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/double-smoked-bacon-cheddar-and-egg-sandwich.pc8chaarf3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\double-smoked-bacon-cheddar-and-egg-sandwich.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pc8chaarf3"},{"Name":"integrity","Value":"sha256-t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/double-smoked-bacon-cheddar-and-egg-sandwich.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39010"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:37:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/double-smoked-bacon-cheddar-and-egg-sandwich.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\double-smoked-bacon-cheddar-and-egg-sandwich.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39010"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:37:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.81vkeg63qt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"81vkeg63qt"},{"Name":"integrity","Value":"sha256-HAiTkJRiR39TnxoujGKM5HY\u002Bq0SYA0Da34hHy8RTG2E="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"176892"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HAiTkJRiR39TnxoujGKM5HY\u002Bq0SYA0Da34hHy8RTG2E=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:39:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HAiTkJRiR39TnxoujGKM5HY\u002Bq0SYA0Da34hHy8RTG2E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"176892"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HAiTkJRiR39TnxoujGKM5HY\u002Bq0SYA0Da34hHy8RTG2E=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:39:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/glazed-donuts.o8nf4j13cn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\glazed-donuts.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o8nf4j13cn"},{"Name":"integrity","Value":"sha256-aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R\u002BmPsIZ2jnfM="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/glazed-donuts.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53307"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R\u002BmPsIZ2jnfM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:28:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/glazed-donuts.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\glazed-donuts.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R\u002BmPsIZ2jnfM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53307"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R\u002BmPsIZ2jnfM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:28:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/greek-salad.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\greek-salad.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IrIEEP/EMQMJKFeLSdWvuaF9uNYZ\u002B6Noyw/DFLINqSo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"24784"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022IrIEEP/EMQMJKFeLSdWvuaF9uNYZ\u002B6Noyw/DFLINqSo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:30:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/greek-salad.u94q6doupg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\greek-salad.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u94q6doupg"},{"Name":"integrity","Value":"sha256-IrIEEP/EMQMJKFeLSdWvuaF9uNYZ\u002B6Noyw/DFLINqSo="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/greek-salad.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24784"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022IrIEEP/EMQMJKFeLSdWvuaF9uNYZ\u002B6Noyw/DFLINqSo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:30:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/honey-cake.keooar0g3f.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\honey-cake.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"keooar0g3f"},{"Name":"integrity","Value":"sha256-jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7\u002Bs4AsAk="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/honey-cake.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32322"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7\u002Bs4AsAk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:09:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/honey-cake.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\honey-cake.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7\u002Bs4AsAk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32322"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7\u002Bs4AsAk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:09:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/hot-caramel-macchiato.izfzfrvogw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\hot-caramel-macchiato.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"izfzfrvogw"},{"Name":"integrity","Value":"sha256-rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/hot-caramel-macchiato.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108250"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/hot-caramel-macchiato.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\hot-caramel-macchiato.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"108250"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-black-tea-lemonade.1lpgb94jyg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-black-tea-lemonade.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1lpgb94jyg"},{"Name":"integrity","Value":"sha256-hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/iced-black-tea-lemonade.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51823"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:03:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-black-tea-lemonade.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-black-tea-lemonade.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"51823"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:03:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-cafe-latte.3px3gaymya.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-cafe-latte.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3px3gaymya"},{"Name":"integrity","Value":"sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/iced-cafe-latte.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51614"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:00:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-cafe-latte.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-cafe-latte.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"51614"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:00:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-caramel-macchiato.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-caramel-macchiato.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr\u002BY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"63731"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:03:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-caramel-macchiato.ycv845c150.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-caramel-macchiato.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ycv845c150"},{"Name":"integrity","Value":"sha256-wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr\u002BY="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/iced-caramel-macchiato.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"63731"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:03:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-chai-tea-latte-with-oleato-golden-foam.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-chai-tea-latte-with-oleato-golden-foam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JGWLhzs6d9yzAaV\u002BG6ntINLERql0z77XdV5DqyaLaN0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"73896"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JGWLhzs6d9yzAaV\u002BG6ntINLERql0z77XdV5DqyaLaN0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:07:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-chai-tea-latte-with-oleato-golden-foam.w7gjmb2n0y.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-chai-tea-latte-with-oleato-golden-foam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w7gjmb2n0y"},{"Name":"integrity","Value":"sha256-JGWLhzs6d9yzAaV\u002BG6ntINLERql0z77XdV5DqyaLaN0="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/iced-chai-tea-latte-with-oleato-golden-foam.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73896"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JGWLhzs6d9yzAaV\u002BG6ntINLERql0z77XdV5DqyaLaN0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:07:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-london-fog-tea-latte.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-london-fog-tea-latte.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VZ\u002BzXuaaXOjlcwWhS/uyDW83BB6TYdm3\u002Bz1fm679IkM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"96415"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022VZ\u002BzXuaaXOjlcwWhS/uyDW83BB6TYdm3\u002Bz1fm679IkM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 12:58:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-london-fog-tea-latte.ziwoavcz90.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-london-fog-tea-latte.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ziwoavcz90"},{"Name":"integrity","Value":"sha256-VZ\u002BzXuaaXOjlcwWhS/uyDW83BB6TYdm3\u002Bz1fm679IkM="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/iced-london-fog-tea-latte.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"96415"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022VZ\u002BzXuaaXOjlcwWhS/uyDW83BB6TYdm3\u002Bz1fm679IkM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 12:58:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-matcha-latte.jevimmq1ia.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-matcha-latte.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jevimmq1ia"},{"Name":"integrity","Value":"sha256-hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1\u002BkMkFVuE4="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/iced-matcha-latte.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"116380"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1\u002BkMkFVuE4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:06:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-matcha-latte.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-matcha-latte.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1\u002BkMkFVuE4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"116380"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1\u002BkMkFVuE4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:06:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-matcha.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-matcha.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"113804"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:36:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/iced-matcha.u8l7dg9h79.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\iced-matcha.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u8l7dg9h79"},{"Name":"integrity","Value":"sha256-TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/iced-matcha.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"113804"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:36:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/turkey-bacon-cheddar-and-egg-white-sandwich.lvqhtjw21n.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\turkey-bacon-cheddar-and-egg-white-sandwich.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lvqhtjw21n"},{"Name":"integrity","Value":"sha256-UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/turkey-bacon-cheddar-and-egg-white-sandwich.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24798"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:34:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/turkey-bacon-cheddar-and-egg-white-sandwich.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\turkey-bacon-cheddar-and-egg-white-sandwich.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"24798"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 13 Apr 2024 20:34:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/white-chocolate-mocha-frappuccino.hahhn8jas1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\white-chocolate-mocha-frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hahhn8jas1"},{"Name":"integrity","Value":"sha256-N0c0MZOx\u002BFOzmkkal\u002BsUYr2B5dhhAGWWifWJmR83GX0="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/white-chocolate-mocha-frappuccino.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48679"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022N0c0MZOx\u002BFOzmkkal\u002BsUYr2B5dhhAGWWifWJmR83GX0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/white-chocolate-mocha-frappuccino.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\white-chocolate-mocha-frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N0c0MZOx\u002BFOzmkkal\u002BsUYr2B5dhhAGWWifWJmR83GX0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48679"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022N0c0MZOx\u002BFOzmkkal\u002BsUYr2B5dhhAGWWifWJmR83GX0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/white-chocolate-mocha.3px3gaymya.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\white-chocolate-mocha.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3px3gaymya"},{"Name":"integrity","Value":"sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/white-chocolate-mocha.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51614"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:00:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/white-chocolate-mocha.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\white-chocolate-mocha.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"51614"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 23 May 2023 13:00:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

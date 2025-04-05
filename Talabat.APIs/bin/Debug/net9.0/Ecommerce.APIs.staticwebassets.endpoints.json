@@ -1,0 +1,1482 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "images/products/blueberry-cheesecake.pahr5x4mme.png",
+      "AssetFile": "images/products/blueberry-cheesecake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2+P9UYWVxnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:12:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pahr5x4mme"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2+P9UYWVxnk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/blueberry-cheesecake.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/blueberry-cheesecake.png",
+      "AssetFile": "images/products/blueberry-cheesecake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2+P9UYWVxnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:12:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2bpM4PmiAOmAOpaZYd4aAM3ALAanOot2+P9UYWVxnk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/double-caramel-frappuccino.54cjuq9yii.png",
+      "AssetFile": "images/products/double-caramel-frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 12:56:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "54cjuq9yii"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/double-caramel-frappuccino.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/double-caramel-frappuccino.png",
+      "AssetFile": "images/products/double-caramel-frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 12:56:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FVoJ0pXFqJB/Jrhz3KFAxDvXOzPQ2eD8Gx0hOGqBZGg="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/double-smoked-bacon-cheddar-and-egg-sandwich.pc8chaarf3.png",
+      "AssetFile": "images/products/double-smoked-bacon-cheddar-and-egg-sandwich.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:37:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pc8chaarf3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/double-smoked-bacon-cheddar-and-egg-sandwich.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/double-smoked-bacon-cheddar-and-egg-sandwich.png",
+      "AssetFile": "images/products/double-smoked-bacon-cheddar-and-egg-sandwich.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:37:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9HmxNesSzbrVIaB7lC8ZX2n7nA/9in9HUo1nq/hTho="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.81vkeg63qt.png",
+      "AssetFile": "images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAiTkJRiR39TnxoujGKM5HY+q0SYA0Da34hHy8RTG2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:39:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81vkeg63qt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HAiTkJRiR39TnxoujGKM5HY+q0SYA0Da34hHy8RTG2E="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png",
+      "AssetFile": "images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HAiTkJRiR39TnxoujGKM5HY+q0SYA0Da34hHy8RTG2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:39:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HAiTkJRiR39TnxoujGKM5HY+q0SYA0Da34hHy8RTG2E="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glazed-donuts.o8nf4j13cn.png",
+      "AssetFile": "images/products/glazed-donuts.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R+mPsIZ2jnfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:28:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o8nf4j13cn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R+mPsIZ2jnfM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glazed-donuts.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/glazed-donuts.png",
+      "AssetFile": "images/products/glazed-donuts.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R+mPsIZ2jnfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:28:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aKOtWgzk30UbjhbHzGTmquuKzMFv1o6R+mPsIZ2jnfM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/greek-salad.png",
+      "AssetFile": "images/products/greek-salad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrIEEP/EMQMJKFeLSdWvuaF9uNYZ+6Noyw/DFLINqSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:30:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrIEEP/EMQMJKFeLSdWvuaF9uNYZ+6Noyw/DFLINqSo="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/greek-salad.u94q6doupg.png",
+      "AssetFile": "images/products/greek-salad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrIEEP/EMQMJKFeLSdWvuaF9uNYZ+6Noyw/DFLINqSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:30:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u94q6doupg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrIEEP/EMQMJKFeLSdWvuaF9uNYZ+6Noyw/DFLINqSo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/greek-salad.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/honey-cake.keooar0g3f.png",
+      "AssetFile": "images/products/honey-cake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7+s4AsAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:09:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "keooar0g3f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7+s4AsAk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/honey-cake.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/honey-cake.png",
+      "AssetFile": "images/products/honey-cake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7+s4AsAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:09:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCfE/ndzJAc1We6Ivb1whEb4t6xEVGMOitS7+s4AsAk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hot-caramel-macchiato.izfzfrvogw.png",
+      "AssetFile": "images/products/hot-caramel-macchiato.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:01:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izfzfrvogw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/hot-caramel-macchiato.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/hot-caramel-macchiato.png",
+      "AssetFile": "images/products/hot-caramel-macchiato.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:01:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rubhz5UPmhNju5mpsMH2NJkc42zb/ic0WWE9A7hIYWQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-black-tea-lemonade.1lpgb94jyg.png",
+      "AssetFile": "images/products/iced-black-tea-lemonade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:03:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1lpgb94jyg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iced-black-tea-lemonade.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-black-tea-lemonade.png",
+      "AssetFile": "images/products/iced-black-tea-lemonade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:03:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hZQyfIL3hidJ63ZMrsYXDGfux7iYZopoe3H1WPdvKDY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-cafe-latte.3px3gaymya.png",
+      "AssetFile": "images/products/iced-cafe-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:00:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3px3gaymya"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iced-cafe-latte.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-cafe-latte.png",
+      "AssetFile": "images/products/iced-cafe-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:00:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-caramel-macchiato.png",
+      "AssetFile": "images/products/iced-caramel-macchiato.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:03:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr+Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-caramel-macchiato.ycv845c150.png",
+      "AssetFile": "images/products/iced-caramel-macchiato.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:03:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ycv845c150"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wgi6XXOIHsFXR9gtE12387uvrRlmantiHMJJuB3Qr+Y="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iced-caramel-macchiato.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-chai-tea-latte-with-oleato-golden-foam.png",
+      "AssetFile": "images/products/iced-chai-tea-latte-with-oleato-golden-foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JGWLhzs6d9yzAaV+G6ntINLERql0z77XdV5DqyaLaN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:07:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JGWLhzs6d9yzAaV+G6ntINLERql0z77XdV5DqyaLaN0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-chai-tea-latte-with-oleato-golden-foam.w7gjmb2n0y.png",
+      "AssetFile": "images/products/iced-chai-tea-latte-with-oleato-golden-foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JGWLhzs6d9yzAaV+G6ntINLERql0z77XdV5DqyaLaN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:07:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7gjmb2n0y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JGWLhzs6d9yzAaV+G6ntINLERql0z77XdV5DqyaLaN0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iced-chai-tea-latte-with-oleato-golden-foam.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-london-fog-tea-latte.png",
+      "AssetFile": "images/products/iced-london-fog-tea-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VZ+zXuaaXOjlcwWhS/uyDW83BB6TYdm3+z1fm679IkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 12:58:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VZ+zXuaaXOjlcwWhS/uyDW83BB6TYdm3+z1fm679IkM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-london-fog-tea-latte.ziwoavcz90.png",
+      "AssetFile": "images/products/iced-london-fog-tea-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VZ+zXuaaXOjlcwWhS/uyDW83BB6TYdm3+z1fm679IkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 12:58:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ziwoavcz90"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VZ+zXuaaXOjlcwWhS/uyDW83BB6TYdm3+z1fm679IkM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iced-london-fog-tea-latte.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-matcha-latte.jevimmq1ia.png",
+      "AssetFile": "images/products/iced-matcha-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1+kMkFVuE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:06:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jevimmq1ia"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1+kMkFVuE4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iced-matcha-latte.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-matcha-latte.png",
+      "AssetFile": "images/products/iced-matcha-latte.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1+kMkFVuE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:06:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hcLkRDx6ZFbpxdNQXDMMJnTyWM3BnweWD1+kMkFVuE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-matcha.png",
+      "AssetFile": "images/products/iced-matcha.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:36:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iced-matcha.u8l7dg9h79.png",
+      "AssetFile": "images/products/iced-matcha.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:36:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u8l7dg9h79"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TqSxJ0MExIsMjWtCP44XruzSeH3RWgObT2dYE9Cej7o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iced-matcha.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/turkey-bacon-cheddar-and-egg-white-sandwich.lvqhtjw21n.png",
+      "AssetFile": "images/products/turkey-bacon-cheddar-and-egg-white-sandwich.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:34:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvqhtjw21n"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/turkey-bacon-cheddar-and-egg-white-sandwich.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/turkey-bacon-cheddar-and-egg-white-sandwich.png",
+      "AssetFile": "images/products/turkey-bacon-cheddar-and-egg-white-sandwich.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Apr 2024 20:34:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UYtpozf74x9Va9dyOH6GIt0A3K4qjd1IlwHmFvcq0sk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/white-chocolate-mocha-frappuccino.hahhn8jas1.png",
+      "AssetFile": "images/products/white-chocolate-mocha-frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0c0MZOx+FOzmkkal+sUYr2B5dhhAGWWifWJmR83GX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:02:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hahhn8jas1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0c0MZOx+FOzmkkal+sUYr2B5dhhAGWWifWJmR83GX0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/white-chocolate-mocha-frappuccino.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/white-chocolate-mocha-frappuccino.png",
+      "AssetFile": "images/products/white-chocolate-mocha-frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0c0MZOx+FOzmkkal+sUYr2B5dhhAGWWifWJmR83GX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:02:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0c0MZOx+FOzmkkal+sUYr2B5dhhAGWWifWJmR83GX0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/white-chocolate-mocha.3px3gaymya.png",
+      "AssetFile": "images/products/white-chocolate-mocha.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:00:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3px3gaymya"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/white-chocolate-mocha.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/white-chocolate-mocha.png",
+      "AssetFile": "images/products/white-chocolate-mocha.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 May 2023 13:00:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qRplyZ9dukvsSA4K0WTb4QbSeB8tjmrMiqzkFTaWvwY="
+        }
+      ]
+    }
+  ]
+}

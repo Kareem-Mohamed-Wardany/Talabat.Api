@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerce.Repositry.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerce.Repositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerce.Repositry.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerce.Repositry.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerce.Repositry.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\bin\Debug\net6.0\Ecommerce.Repositry.deps.json
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\bin\Debug\net6.0\Ecommerce.Repositry.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\bin\Debug\net6.0\Ecommerce.Repositry.pdb
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\bin\Debug\net6.0\Ecommerce.Core.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\bin\Debug\net6.0\Ecommerce.Core.pdb
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerc.5C411A64.Up2Date
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerce.Repositry.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\refint\Ecommerce.Repositry.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\Ecommerce.Repositry.pdb
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Repositry\obj\Debug\net6.0\ref\Ecommerce.Repositry.dll

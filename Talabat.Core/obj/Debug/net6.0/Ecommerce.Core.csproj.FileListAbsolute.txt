@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.deps.json
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.pdb
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\refint\Ecommerce.Core.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.pdb
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\ref\Ecommerce.Core.dll
+C:\Users\Administrator\source\repos\Ecommerce.APIs.Solution\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.csproj.AssemblyReference.cache
