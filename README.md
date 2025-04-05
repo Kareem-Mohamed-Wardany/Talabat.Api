@@ -10,7 +10,7 @@ This project follows the **Onion Architecture** with clearly separated layers:
 
 #### Talabat.APIs --> Presentation Layer (API Controllers, Middlewares)
 
-#### Talabat.Application --> Application Layer (Business Logic, DTOs, Services)
+#### Talabat.Application --> Application Layer (Business Logic, Services)
 
 #### Talabat.Core --> Domain Layer (Entities, Interfaces, Specifications)
 
